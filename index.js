@@ -38,4 +38,4 @@ const exp ='Ingrese un numero del 1 al 20';
 const userOpt=validate(exp,regex);
 add(userOpt);
 factorial(userOpt);
-alert('Todos los resultados se mostrarán por pantalla')
+alert('Todos los resultados se mostrarán por consola')
